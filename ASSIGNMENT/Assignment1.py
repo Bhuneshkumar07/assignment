@@ -11,7 +11,7 @@ b = 10.5
 print("Example:", b)
 
 print("\nString (str): Text written inside quotes")
-name_example = "Gargi"
+name_example = "Bhunesh"
 print("Example:", name_example)
 
 print("\nBoolean (bool): Shows True or False")
@@ -21,8 +21,8 @@ print("Example:", is_student)
 
 print("\n========== 2) Variables: name, age, city ==========")
 
-name = "Gargi"
-age = 20
+name = "Bhunesh"
+age = 21
 city = "Jaipur"
 
 print("Name:", name)
@@ -46,7 +46,7 @@ print("\n2) lower(): Makes all letters lowercase")
 print("Example:", "HELLO".lower())
 
 print("\n3) title(): Makes first letter of each word capital")
-print("Example:", "gargi jaipur".title())
+print("Example:", "Bhunesh jaipur".title())
 
 print("\n4) replace(old, new): Replaces a word with another word")
 print("Example:", "I love python".replace("python", "java"))
